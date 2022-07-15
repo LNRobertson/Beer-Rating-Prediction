@@ -1,1 +1,1 @@
-# BeerCapstone
+# Beer Rating Prediction
