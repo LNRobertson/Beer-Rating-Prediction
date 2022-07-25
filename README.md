@@ -12,23 +12,15 @@
 
 **Predicting consumer star ratings for a beer using hierarchical clustering of beer styles with linear regression of tasting profiles.**
 
--1.5 million consumer reviews from enthusiast website [beeradvocate.com](www.beeradvocate.com)
-
--3197 unique beers
-
--Analyze rows with 25 or more reviews
-
--934 unique breweries
-
--5 features for descriptions and labels
-
--5 review categories
-
--No duplicate rows
-
--14  beer profile features:
-<sub>
- Makeup,	
+- 1.5 million consumer reviews from enthusiast website [beeradvocate.com](www.beeradvocate.com) curated into a dataset found on [Kaggle](https://www.kaggle.com/ruthgn/beer-profile-and-ratings-data-set).
+- 3197 unique beers
+- Analyze rows with 25 or more reviews
+- 934 unique breweries
+- 5 features for descriptions and labels
+- 5 review categories
+- No duplicate rows
+- 14  beer profile features:
+<sub> Makeup,	
  Mouth Feel,	
  Taste	Aroma,
  ABV,	
@@ -48,28 +40,31 @@
  Matly,
 <sub/>
 
-
 # Preview
 [(Table of Contents)](#table-of-contents)
+ 
 ![12](https://user-images.githubusercontent.com/56135653/180840650-0b0a5dd3-7939-4b5a-862c-ad1d03df844c.png)
 ![Springboard Capstone2 - Beer Report](https://user-images.githubusercontent.com/56135653/180841937-8d64ea1e-f491-438a-ab56-699683afd78b.png)
-
-
+ 
 # Table of contents
 [(Back to top)](#table-of-contents)
 
-<!-- After you have introduced your project, it is a good idea to add a **Table of contents** or **TOC** as **cool** people say it. This would make it easier for people to navigate through your README and find exactly what they are looking for.
-
-Here is a sample TOC(*wow! such cool!*) that is actually the TOC for this README. -->
-
 - [Table of contents](#table-of-contents)
+ 
 - [Installation](#installation)
+ 
 - [Usage](#usage)
+ 
 - [Development](#development)
+ 
 - [Contribute](#contribute)
+
     - [Sponsor](#sponsor)
+ 
     - [Adding new features or fixing bugs](#adding-new-features-or-fixing-bugs)
-- [License](#license)
+
+ - [License](#license)
+ 
 - [Footer](#footer)
 
 # Installation
